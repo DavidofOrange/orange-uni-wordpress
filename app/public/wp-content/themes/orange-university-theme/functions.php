@@ -14,7 +14,7 @@ wp_localize_script("main-university-js", "universityData", array(
 
 }
 
-add_action("wp_enqueue_scripts", "orange_files");
+add_action("wp_enqueue_scripts", "orange_files"); 
 
 function orange_features() {
     add_theme_support("title-tag");

@@ -3935,3 +3935,267 @@ Stack trace:
 #3 phar://C:/Users/David/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1271): require('C:\\Users\\David\\...')
 #4 phar://C:/Users/David/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1192): WP_CLI\Runner->load_wordpress()
 #5 phar://C:/Users/David/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRu in C:\Users\David\Local Sites\orange-university\app\public\wp-includes\wp-db.php on line 1788
+[04-Feb-2022 02:15:59 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:15:59 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:15:59 UTC] PHP Stack trace:
+[04-Feb-2022 02:15:59 UTC] PHP Stack trace:
+[04-Feb-2022 02:15:59 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:0
+[04-Feb-2022 02:15:59 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:0
+[04-Feb-2022 02:15:59 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:44
+[04-Feb-2022 02:15:59 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:15:59 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:44
+[04-Feb-2022 02:15:59 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:15:59 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:15:59 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:15:59 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:15:59 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:15:59 UTC] PHP Warning:  Use of undefined constant orange_files - assumed 'orange_files' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:15:59 UTC] PHP Warning:  Use of undefined constant orange_files - assumed 'orange_files' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:15:59 UTC] PHP Stack trace:
+[04-Feb-2022 02:15:59 UTC] PHP Stack trace:
+[04-Feb-2022 02:15:59 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:0
+[04-Feb-2022 02:15:59 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:44
+[04-Feb-2022 02:15:59 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:0
+[04-Feb-2022 02:15:59 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:15:59 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:44
+[04-Feb-2022 02:15:59 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:15:59 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:15:59 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:15:59 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:15:59 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:15:59 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:15:59 UTC] PHP Stack trace:
+[04-Feb-2022 02:15:59 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:15:59 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:0
+[04-Feb-2022 02:15:59 UTC] PHP Stack trace:
+[04-Feb-2022 02:15:59 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:44
+[04-Feb-2022 02:15:59 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:0
+[04-Feb-2022 02:15:59 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:15:59 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:15:59 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:15:59 UTC] PHP   6. log() C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18
+[04-Feb-2022 02:15:59 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-cron.php:44
+[04-Feb-2022 02:15:59 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:15:59 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:15:59 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:15:59 UTC] PHP   6. log() C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18
+[04-Feb-2022 02:15:59 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:15:59 UTC] PHP Stack trace:
+[04-Feb-2022 02:15:59 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:0
+[04-Feb-2022 02:15:59 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:10
+[04-Feb-2022 02:15:59 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin.php:34
+[04-Feb-2022 02:15:59 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:15:59 UTC] PHP   5. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:15:59 UTC] PHP   6. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:15:59 UTC] PHP Warning:  Use of undefined constant orange_files - assumed 'orange_files' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:15:59 UTC] PHP Stack trace:
+[04-Feb-2022 02:15:59 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:0
+[04-Feb-2022 02:15:59 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:10
+[04-Feb-2022 02:15:59 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin.php:34
+[04-Feb-2022 02:15:59 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:15:59 UTC] PHP   5. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:15:59 UTC] PHP   6. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:15:59 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:15:59 UTC] PHP Stack trace:
+[04-Feb-2022 02:15:59 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:0
+[04-Feb-2022 02:15:59 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:10
+[04-Feb-2022 02:15:59 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin.php:34
+[04-Feb-2022 02:15:59 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:15:59 UTC] PHP   5. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:15:59 UTC] PHP   6. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:15:59 UTC] PHP   7. log() C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18
+[04-Feb-2022 02:16:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18) in C:\Users\David\Local Sites\orange-university\app\public\wp-includes\functions.php on line 6821
+[04-Feb-2022 02:16:00 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:00 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:0
+[04-Feb-2022 02:16:00 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:10
+[04-Feb-2022 02:16:00 UTC] PHP   3. do_action() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin.php:175
+[04-Feb-2022 02:16:00 UTC] PHP   4. WP_Hook->do_action() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\plugin.php:474
+[04-Feb-2022 02:16:00 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\class-wp-hook.php:331
+[04-Feb-2022 02:16:00 UTC] PHP   6. send_frame_options_header() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\class-wp-hook.php:305
+[04-Feb-2022 02:16:00 UTC] PHP   7. header() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\functions.php:6821
+[04-Feb-2022 02:16:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18) in C:\Users\David\Local Sites\orange-university\app\public\wp-admin\includes\misc.php on line 1310
+[04-Feb-2022 02:16:01 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:01 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:0
+[04-Feb-2022 02:16:01 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:10
+[04-Feb-2022 02:16:01 UTC] PHP   3. do_action() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin.php:175
+[04-Feb-2022 02:16:01 UTC] PHP   4. WP_Hook->do_action() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\plugin.php:474
+[04-Feb-2022 02:16:01 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\class-wp-hook.php:331
+[04-Feb-2022 02:16:01 UTC] PHP   6. wp_admin_headers() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\class-wp-hook.php:307
+[04-Feb-2022 02:16:01 UTC] PHP   7. header() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\includes\misc.php:1310
+[04-Feb-2022 02:16:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18) in C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-header.php on line 9
+[04-Feb-2022 02:16:01 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:01 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:0
+[04-Feb-2022 02:16:01 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:137
+[04-Feb-2022 02:16:01 UTC] PHP   3. header() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-header.php:9
+[04-Feb-2022 02:16:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18) in C:\Users\David\Local Sites\orange-university\app\public\wp-includes\option.php on line 1109
+[04-Feb-2022 02:16:01 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:01 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:0
+[04-Feb-2022 02:16:01 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:137
+[04-Feb-2022 02:16:01 UTC] PHP   3. wp_user_settings() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-header.php:86
+[04-Feb-2022 02:16:01 UTC] PHP   4. setcookie() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\option.php:1109
+[04-Feb-2022 02:16:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18) in C:\Users\David\Local Sites\orange-university\app\public\wp-includes\option.php on line 1110
+[04-Feb-2022 02:16:01 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:01 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:0
+[04-Feb-2022 02:16:01 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\index.php:137
+[04-Feb-2022 02:16:01 UTC] PHP   3. wp_user_settings() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-header.php:86
+[04-Feb-2022 02:16:01 UTC] PHP   4. setcookie() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\option.php:1110
+[04-Feb-2022 02:16:02 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:02 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:02 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:02 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:02 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:02 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:02 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:02 UTC] PHP Warning:  Use of undefined constant orange_files - assumed 'orange_files' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:02 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:02 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:02 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:02 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:02 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:02 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:02 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:02 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:02 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:02 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:02 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:02 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:02 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:02 UTC] PHP   6. log() C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18
+[04-Feb-2022 02:16:03 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:03 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:03 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:03 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:03 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:03 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:03 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:03 UTC] PHP Warning:  Use of undefined constant orange_files - assumed 'orange_files' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:03 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:03 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:03 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:03 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:03 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:03 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:03 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:03 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:03 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:03 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:03 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:03 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:03 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:03 UTC] PHP   6. log() C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18
+[04-Feb-2022 02:16:03 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:03 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:03 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\index.php:0
+[04-Feb-2022 02:16:03 UTC] PHP   2. require() C:\Users\David\Local Sites\orange-university\app\public\index.php:17
+[04-Feb-2022 02:16:03 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-blog-header.php:13
+[04-Feb-2022 02:16:03 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:03 UTC] PHP   5. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:03 UTC] PHP   6. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:03 UTC] PHP Warning:  Use of undefined constant orange_files - assumed 'orange_files' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:03 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:03 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\index.php:0
+[04-Feb-2022 02:16:03 UTC] PHP   2. require() C:\Users\David\Local Sites\orange-university\app\public\index.php:17
+[04-Feb-2022 02:16:03 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-blog-header.php:13
+[04-Feb-2022 02:16:03 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:03 UTC] PHP   5. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:03 UTC] PHP   6. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:03 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:03 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:03 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\index.php:0
+[04-Feb-2022 02:16:03 UTC] PHP   2. require() C:\Users\David\Local Sites\orange-university\app\public\index.php:17
+[04-Feb-2022 02:16:03 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-blog-header.php:13
+[04-Feb-2022 02:16:03 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:03 UTC] PHP   5. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:03 UTC] PHP   6. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:03 UTC] PHP   7. log() C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18
+[04-Feb-2022 02:16:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18) in C:\Users\David\Local Sites\orange-university\app\public\wp-includes\pluggable.php on line 1355
+[04-Feb-2022 02:16:03 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:03 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\index.php:0
+[04-Feb-2022 02:16:03 UTC] PHP   2. require() C:\Users\David\Local Sites\orange-university\app\public\index.php:17
+[04-Feb-2022 02:16:03 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-blog-header.php:19
+[04-Feb-2022 02:16:03 UTC] PHP   4. do_action() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\template-loader.php:45
+[04-Feb-2022 02:16:03 UTC] PHP   5. WP_Hook->do_action() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\plugin.php:474
+[04-Feb-2022 02:16:03 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\class-wp-hook.php:331
+[04-Feb-2022 02:16:03 UTC] PHP   7. do_favicon() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\class-wp-hook.php:307
+[04-Feb-2022 02:16:03 UTC] PHP   8. wp_redirect() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\functions.php:1713
+[04-Feb-2022 02:16:03 UTC] PHP   9. header() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\pluggable.php:1355
+[04-Feb-2022 02:16:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18) in C:\Users\David\Local Sites\orange-university\app\public\wp-includes\pluggable.php on line 1358
+[04-Feb-2022 02:16:03 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:03 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\index.php:0
+[04-Feb-2022 02:16:03 UTC] PHP   2. require() C:\Users\David\Local Sites\orange-university\app\public\index.php:17
+[04-Feb-2022 02:16:03 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-blog-header.php:19
+[04-Feb-2022 02:16:03 UTC] PHP   4. do_action() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\template-loader.php:45
+[04-Feb-2022 02:16:03 UTC] PHP   5. WP_Hook->do_action() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\plugin.php:474
+[04-Feb-2022 02:16:03 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\class-wp-hook.php:331
+[04-Feb-2022 02:16:03 UTC] PHP   7. do_favicon() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\class-wp-hook.php:307
+[04-Feb-2022 02:16:03 UTC] PHP   8. wp_redirect() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\functions.php:1713
+[04-Feb-2022 02:16:03 UTC] PHP   9. header() C:\Users\David\Local Sites\orange-university\app\public\wp-includes\pluggable.php:1358
+[04-Feb-2022 02:16:05 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:05 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:05 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\index.php:0
+[04-Feb-2022 02:16:05 UTC] PHP   2. require() C:\Users\David\Local Sites\orange-university\app\public\index.php:17
+[04-Feb-2022 02:16:05 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-blog-header.php:13
+[04-Feb-2022 02:16:05 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:05 UTC] PHP   5. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:05 UTC] PHP   6. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:05 UTC] PHP Warning:  Use of undefined constant orange_files - assumed 'orange_files' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:05 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:05 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\index.php:0
+[04-Feb-2022 02:16:05 UTC] PHP   2. require() C:\Users\David\Local Sites\orange-university\app\public\index.php:17
+[04-Feb-2022 02:16:05 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-blog-header.php:13
+[04-Feb-2022 02:16:05 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:05 UTC] PHP   5. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:05 UTC] PHP   6. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:05 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:05 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:05 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\index.php:0
+[04-Feb-2022 02:16:05 UTC] PHP   2. require() C:\Users\David\Local Sites\orange-university\app\public\index.php:17
+[04-Feb-2022 02:16:05 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-blog-header.php:13
+[04-Feb-2022 02:16:05 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:05 UTC] PHP   5. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:05 UTC] PHP   6. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:05 UTC] PHP   7. log() C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18
+[04-Feb-2022 02:16:05 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:05 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:05 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:05 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:05 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:05 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:05 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:05 UTC] PHP Warning:  Use of undefined constant orange_files - assumed 'orange_files' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:05 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:05 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:05 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:05 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:05 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:05 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:05 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:05 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:05 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:05 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:05 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:05 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:05 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:05 UTC] PHP   6. log() C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18
+[04-Feb-2022 02:16:05 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:05 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:05 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:05 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:05 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:05 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:05 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:05 UTC] PHP Warning:  Use of undefined constant orange_files - assumed 'orange_files' (this will throw an Error in a future version of PHP) in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:05 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:05 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:05 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:05 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:05 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:05 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:05 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php on line 18
+[04-Feb-2022 02:16:05 UTC] PHP Stack trace:
+[04-Feb-2022 02:16:05 UTC] PHP   1. {main}() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:0
+[04-Feb-2022 02:16:05 UTC] PHP   2. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-admin\admin-ajax.php:22
+[04-Feb-2022 02:16:05 UTC] PHP   3. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-load.php:50
+[04-Feb-2022 02:16:05 UTC] PHP   4. require_once() C:\Users\David\Local Sites\orange-university\app\public\wp-config.php:79
+[04-Feb-2022 02:16:05 UTC] PHP   5. include() C:\Users\David\Local Sites\orange-university\app\public\wp-settings.php:555
+[04-Feb-2022 02:16:05 UTC] PHP   6. log() C:\Users\David\Local Sites\orange-university\app\public\wp-content\themes\orange-university-theme\functions.php:18
