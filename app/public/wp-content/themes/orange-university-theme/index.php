@@ -21,8 +21,8 @@
               <span class="event-summary__day">25</span>
             </a>
             <div class="event-summary__content">
-              <h5 class="event-summary__title headline headline--tiny"><a href="#">Poetry in the 100</a></h5>
-              <p>Bring poems you&rsquo;ve wrote to the 100 building this Tuesday for an open mic and snacks. <a href="#" class="nu gray">Learn more</a></p>
+              <h5 class="event-summary__title headline headline--tiny"><a href="<?php echo site_url("/poetry-in-the-100"); ?>">Poetry in the 100</a></h5>
+              <p>Bring poems you&rsquo;ve wrote to the 100 building this Tuesday for an open mic and snacks. <a href="<?php echo site_url("/poetry-in-the-100"); ?>" class="nu gray">Learn more</a></p>
             </div>
           </div>
           <div class="event-summary">
@@ -31,12 +31,12 @@
               <span class="event-summary__day">02</span>
             </a>
             <div class="event-summary__content">
-              <h5 class="event-summary__title headline headline--tiny"><a href="#">Quad Picnic Party</a></h5>
-              <p>Live music, a taco truck and more can found in our third annual quad picnic day. <a href="#" class="nu gray">Learn more</a></p>
+              <h5 class="event-summary__title headline headline--tiny"><a href="<?php echo site_url("/quad-picnic-party"); ?>">Quad Picnic Party</a></h5>
+              <p>Live music, a taco truck and more can found in our third annual quad picnic day. <a href="<?php echo site_url("/quad-picnic-party"); ?>" class="nu gray">Learn more</a></p>
             </div>
           </div>
 
-          <p class="t-center no-margin"><a href="#" class="btn btn--blue">View All Events</a></p>
+          <p class="t-center no-margin"><a href="<?php echo site_url("/events"); ?>" class="btn btn--blue">View All Events</a></p>
         </div>
       </div>
       <div class="full-width-split__two">
@@ -49,8 +49,8 @@
               <span class="event-summary__day">20</span>
             </a>
             <div class="event-summary__content">
-              <h5 class="event-summary__title headline headline--tiny"><a href="#">We Were Voted Best School</a></h5>
-              <p>For the 100th year in a row we are voted #1. <a href="#" class="nu gray">Read more</a></p>
+              <h5 class="event-summary__title headline headline--tiny"><a href="<?php echo site_url("/voted-top-school"); ?>">We Were Voted Best School</a></h5>
+              <p>For the 100th year in a row we are voted #1. <a href="<?php echo site_url("/our-history"); ?>" class="nu gray">Read more</a></p>
             </div>
           </div>
           <div class="event-summary">
@@ -59,12 +59,12 @@
               <span class="event-summary__day">04</span>
             </a>
             <div class="event-summary__content">
-              <h5 class="event-summary__title headline headline--tiny"><a href="#">Professors in the National Spotlight</a></h5>
-              <p>Two of our professors have been in national news lately. <a href="#" class="nu gray">Read more</a></p>
+              <h5 class="event-summary__title headline headline--tiny"><a href="<?php echo site_url("/spotlight"); ?>">Professors in the National Spotlight</a></h5>
+              <p>Two of our professors have been in national news lately. <a href="<?php echo site_url("/spotlight"); ?>" class="nu gray">Read more</a></p>
             </div>
           </div>
 
-          <p class="t-center no-margin"><a href="#" class="btn btn--yellow">View All Blog Posts</a></p>
+          <p class="t-center no-margin"><a href="<?php echo site_url("/blog"); ?>" class="btn btn--yellow">View All Blog Posts</a></p>
         </div>
       </div>
     </div>
@@ -77,7 +77,7 @@
               <div class="hero-slider__overlay">
                 <h2 class="headline headline--medium t-center">Free Transportation</h2>
                 <p class="t-center">All students have free unlimited bus fare.</p>
-                <p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
+                <p class="t-center no-margin"><a href="<?php echo site_url("/free-transportation"); ?>" class="btn btn--blue">Learn more</a></p>
               </div>
             </div>
           </div>
@@ -86,7 +86,7 @@
               <div class="hero-slider__overlay">
                 <h2 class="headline headline--medium t-center">An Apple a Day</h2>
                 <p class="t-center">Our dentistry program recommends eating apples.</p>
-                <p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
+                <p class="t-center no-margin"><a href="<?php echo site_url("/an-apple-a-day"); ?>" class="btn btn--blue">Learn more</a></p>
               </div>
             </div>
           </div>
@@ -95,7 +95,7 @@
               <div class="hero-slider__overlay">
                 <h2 class="headline headline--medium t-center">Free Food</h2>
                 <p class="t-center">Orange University offers lunch plans for those in need.</p>
-                <p class="t-center no-margin"><a href="#" class="btn btn--blue">Learn more</a></p>
+                <p class="t-center no-margin"><a href="<?php echo site_url("/free-food"); ?>" class="btn btn--blue">Learn more</a></p>
               </div>
             </div>
           </div>
